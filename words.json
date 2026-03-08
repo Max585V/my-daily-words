@@ -1,14 +1,17 @@
 [
   {
     "word": "Challenge",
-    "translation": "Вызов"
+    "translation": "Сложная задача, вызов, проблема",
+    "translationES": "Desafío"
   },
   {
     "word": "Gamble",
-    "translation": "играть в азартные игры"
+    "translation": "Азартная игра, рискованное предприятие",
+    "translationES": "Juego de azar"
   },
   {
     "word": "Success",
-    "translation": "Успех"
+    "translation": "Успех, удача, достижение",
+    "translationES": "Éxito"
   }
 ]
